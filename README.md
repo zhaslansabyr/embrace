@@ -24,7 +24,7 @@ A responsive landing page for Embrace, a modern marketing agency, built with sem
 ```
 ├── index.html
 │
-├── css/
+├── styles/
 │   │── components/
 │   │── blocks/
 │   │── base/
