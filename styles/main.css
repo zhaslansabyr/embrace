@@ -3,3 +3,7 @@
 @import url("./base/variables.css");
 @import url("./base/utils.css");
 @import url("./base/globals.css");
+
+@import url("./components/button.css");
+
+@import url("./blocks/header.css");

@@ -1,0 +1,23 @@
+.header {
+	border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+}
+
+.header-inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-block: 18px;
+}
+
+.header-logo {
+	flex-shrink: 0;
+}
+
+.header-menu-list {
+	display: flex;
+	column-gap: 40px;
+}
+
+.header-menu-link {
+	text-decoration: none;
+}
