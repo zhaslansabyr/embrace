@@ -1,0 +1,20 @@
+:root {
+	--color-light: #fff;
+	--color-light-muted: #fafafa;
+	--color-dark: #000;
+	--color-accent: #3461ff;
+	--color-gray: #aaa;
+
+	--border-radius: 70px;
+
+	--font-family-base: "General Sans", sans-serif;
+
+	--input-height: 64px;
+
+	--container-width: 1200px;
+	--container-padding-x: 15px;
+
+	--transition-duration: 0.3s;
+
+	--header-height: 88px;
+}
