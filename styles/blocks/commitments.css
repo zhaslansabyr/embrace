@@ -1,0 +1,61 @@
+.commitments {
+	display: flex;
+	justify-content: space-between;
+	column-gap: 120px;
+	padding-block: 137px;
+}
+
+.commitments-statistics-list {
+	display: grid;
+	grid-template-columns: repeat(2, 220px);
+	grid-template-rows: repeat(2, 110px);
+	gap: 42px 90px;
+}
+
+.commitments-statistics-item {
+}
+
+.commitments-statistics-row-title {
+	font-size: 64px;
+	font-weight: 600;
+}
+
+.commitments-statistics-row-subtitle {
+	color: var(--color-dark);
+	opacity: 0.6;
+}
+
+.commitments-body {
+	display: flex;
+	flex-direction: column;
+	row-gap: 62px;
+}
+
+.commitments-heading {
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+
+.commitments-title {
+}
+
+.commitments-description {
+	color: var(--color-dark);
+	opacity: 0.6;
+}
+
+.commitments-link {
+	color: var(--color-accent);
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	column-gap: 8px;
+}
+
+.commitments-link::after {
+	content: "";
+	width: 15px;
+	height: 13px;
+	background: url("../../assets/icons/arrow-right.svg") center/contain no-repeat;
+}
