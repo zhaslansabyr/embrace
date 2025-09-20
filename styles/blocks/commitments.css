@@ -12,9 +12,6 @@
 	gap: 42px 90px;
 }
 
-.commitments-statistics-item {
-}
-
 .commitments-statistics-row-title {
 	font-size: 64px;
 	font-weight: 600;
@@ -35,9 +32,6 @@
 	display: flex;
 	flex-direction: column;
 	row-gap: 20px;
-}
-
-.commitments-title {
 }
 
 .commitments-description {
