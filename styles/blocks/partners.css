@@ -1,0 +1,31 @@
+.partners {
+	padding-block: 78px 135px;
+	background-color: var(--color-light-muted);
+}
+
+.partners-inner {
+	display: flex;
+	flex-direction: column;
+	row-gap: 100px;
+}
+
+.partners-title {
+	text-align: center;
+	font-size: 36px;
+	letter-spacing: -1px;
+}
+
+.partners-list {
+	display: flex;
+	flex-direction: column;
+	row-gap: 94px;
+}
+
+.partners-list-row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.partners-list-col {
+	cursor: pointer;
+}
