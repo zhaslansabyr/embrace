@@ -1,0 +1,50 @@
+.hero {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	column-gap: 72px;
+	padding-block: 84px 122px;
+}
+
+.hero-body {
+	display: flex;
+	flex-direction: column;
+	row-gap: 44px;
+}
+
+.hero-body-heading {
+	display: flex;
+	flex-direction: column;
+	row-gap: 28px;
+}
+
+.hero-title {
+	font-weight: 600;
+	font-size: 96px;
+	letter-spacing: -4px;
+	line-height: 1;
+}
+
+.hero-subtitle {
+	font-size: 20px;
+	color: var(--color-dark);
+	opacity: 0.6;
+}
+
+.hero-email-form {
+	font-size: 18px;
+	display: flex;
+	column-gap: 8px;
+}
+
+.input.hero-email-field {
+	flex-grow: 1;
+}
+
+.hero-form-button {
+	padding-inline: 36px;
+}
+
+.hero-image {
+	flex-shrink: 0;
+}
