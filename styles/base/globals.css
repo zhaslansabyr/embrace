@@ -40,3 +40,8 @@ p {
 p:not([class]):not(:last-child) {
 	margin-bottom: 24px;
 }
+
+h2 {
+	font-size: 64px;
+	font-weight: 500;
+}
