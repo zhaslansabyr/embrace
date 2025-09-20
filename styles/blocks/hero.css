@@ -27,8 +27,6 @@
 
 .hero-subtitle {
 	font-size: 20px;
-	color: var(--color-dark);
-	opacity: 0.6;
 }
 
 .hero-email-form {

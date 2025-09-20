@@ -11,5 +11,6 @@
 @import url("./blocks/hero.css");
 @import url('./blocks/partners.css');
 @import url('./blocks/commitments.css');
+@import url('./blocks/how-it-works.css');
 
 @import url("./media-queries.css");

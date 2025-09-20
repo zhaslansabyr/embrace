@@ -35,6 +35,9 @@ a:hover {
 
 p {
 	margin-block: 0;
+	line-height: 1.75;
+	color: var(--color-dark);
+	opacity: 0.6;
 }
 
 p:not([class]):not(:last-child) {
